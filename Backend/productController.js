@@ -1,4 +1,4 @@
-import Product from '../Product.js';
+import Product from './product.js';
 import asyncHandler from 'express-async-handler';
 
 // Get all products
